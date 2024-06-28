@@ -30,7 +30,7 @@ const client = new Discord.Client({                                             
     checkUpdate: false,
     partials: ['CHANNEL', 'MESSAGE']
 });
-const token = '';                                                                                                                                                                                                                                             // made by @ghostyjija
+const token = 'ADD YOUR TOKEN';                                                                                                                                                                                                                                             // made by @ghostyjija
 let currentVideo = null;
 let connection = null;
 let player = null;                                                                                                                                                                                                                                             // made by @ghostyjija
