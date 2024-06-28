@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "libsodium-wrappers": "^0.7.13",
+    "yt-search": "^2.11.0",
+    "ytdl-core": "^4.11.5"
+  },
+  "name": "ghosty-music-selfbot-v1",
+  "description": "This Discord selfbot plays music from YouTube in a voice channel. It can search for songs, play them, and show similar songs to the current playing track.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WannaBeGhoSt/GhoSty-Music-SelfBot-v1.git"
+  },
+  "keywords": [
+    "discordmusic",
+    "selfbot",
+    "musicselfbot",
+    "discordselfbot",
+    "musicbot",
+    "discordselfbotmusic",
+    "discordmusicselfbot",
+    "Discord Music Selfbot",
+    "Discord Music Bot",
+    "Discord Bot",
+    "Discord Selfbot"
+    
+  ],
+  "author": "GhoSty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WannaBeGhoSt/GhoSty-Music-SelfBot-v1/issues"
+  },
+  "homepage": "https://github.com/WannaBeGhoSt/GhoSty-Music-SelfBot-v1#readme"
+}
