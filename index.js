@@ -3,7 +3,7 @@ const requiredmodulesghosty = [
     'discord.js-selfbot-v13',
     '@discordjs/voice',
     'yt-search',
-    'ytdl-core',
+    '@distube/ytdl-core',
     'libsodium-wrappers'
 ];
 
@@ -22,7 +22,7 @@ checkmodulesghosty(requiredmodulesghosty);
 const Discord = require('discord.js-selfbot-v13');
 const { createAudioPlayer, createAudioResource, joinVoiceChannel, NoSubscriberBehavior, AudioPlayerStatus, StreamType } = require('@discordjs/voice');                                                                                                                                                                                                                                              // made by @ghostyjija
 const ytSearch = require('yt-search');
-const ytdl = require('ytdl-core');
+const ytdl = require('@distube/ytdl-core');
 const sodium = require('libsodium-wrappers');
 
 const client = new Discord.Client({                                                                                                                                                                                                                                             // made by @ghostyjija
