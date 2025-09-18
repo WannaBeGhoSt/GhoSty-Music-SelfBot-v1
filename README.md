@@ -1,4 +1,4 @@
-# GhoSty Music - Selfbot
+# Discord Music Selfbot
 
 This Discord selfbot plays music from YouTube in a voice channel. It can search for songs, play them, and show similar songs to the current playing track.
 
@@ -84,3 +84,4 @@ node index.js
 - Also, make sure to update the content based on the actual features and configuration details of your script.
 - Re-Selling Our Codes = Ban
 - Feel free to contribute or report issues on our Discord server.
+
